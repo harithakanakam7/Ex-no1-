@@ -56,17 +56,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
+|      1200               |          1202            |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="673" height="801" alt="image" src="https://github.com/user-attachments/assets/8beed453-9e34-4b4f-9698-e8f6a714d7cb" />
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="940" height="583" alt="image" src="https://github.com/user-attachments/assets/e094db62-c94e-4349-b27d-e7bf1efae26d" />
+
 
 ## 2. SUBTRACTION
 
@@ -109,16 +110,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200              |          1202            |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="658" height="740" alt="image" src="https://github.com/user-attachments/assets/278f378b-3a61-42a2-9635-05a5eca1f035" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="940" height="578" alt="image" src="https://github.com/user-attachments/assets/862fc799-9b37-42b8-90c3-6ba4cf0d8d7e" />
+
 
 ## 3. MULTIPLICATION
 
@@ -158,15 +162,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1200                |          1202            |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="660" height="653" alt="image" src="https://github.com/user-attachments/assets/b28f1d5b-ad96-47cf-96b5-444ecf3be17d" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="940" height="591" alt="image" src="https://github.com/user-attachments/assets/a9e9ee6b-5f69-42ba-ae0c-c9c3c9018f01" />
+
 
 ## 4. DIVISION
 
@@ -203,16 +210,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|        1200             |        1202              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="673" height="795" alt="image" src="https://github.com/user-attachments/assets/c63adc20-9a03-4cf6-8ee9-5c09773030cb" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
-
+<img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/4adb0325-18f5-474e-ba3d-410992da8636" />
 
 ## RESULT
 
